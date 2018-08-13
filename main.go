@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-var version = "1.0.0"
+var version = "1.0.1"
 
 func main() {
 	var showVersion bool
